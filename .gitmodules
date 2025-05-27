@@ -1,0 +1,3 @@
+[submodule "content/bobos-nerdy-notes"]
+	path = content/bobos-nerdy-notes
+	url = git@github.com:EinSatzMitX/bobos-nerdy-notes.git
